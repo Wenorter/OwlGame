@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Student Num: c3260058
+ Student Name: Kira Khristosova
+ Date: 24/10/18
+ Description: This XML code loads pixels from mastersheet.png files in image assets. This one is for the enemy.
+ Tutorial Used: Coin Time Demo in Microsoft Website-->
+<AnimationChainArraySave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileRelativeTextures>true</FileRelativeTextures>
+  <TimeMeasurementUnit>Undefined</TimeMeasurementUnit>
+  <CoordinateType>Pixel</CoordinateType>
+  <AnimationChain>
+    <Name>WalkLeft</Name>
+    <ColorKey>0</ColorKey>
+    <Frame>
+      <FlipHorizontal>false</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>..\images\mastersheet.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>1714</LeftCoordinate>
+      <RightCoordinate>2070</RightCoordinate>
+      <TopCoordinate>1574</TopCoordinate>
+      <BottomCoordinate>1664</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+    <Frame>
+      <FlipHorizontal>false</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>..\images\mastersheet.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>1714</LeftCoordinate>
+      <RightCoordinate>2070</RightCoordinate>
+      <TopCoordinate>1664</TopCoordinate>
+      <BottomCoordinate>1754</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+    <Frame>
+      <FlipHorizontal>false</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>..\images\mastersheet.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>1714</LeftCoordinate>
+      <RightCoordinate>2070</RightCoordinate>
+      <TopCoordinate>1754</TopCoordinate>
+      <BottomCoordinate>1844</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+  </AnimationChain>
+  <AnimationChain>
+    <Name>WalkRight</Name>
+    <ColorKey>0</ColorKey>
+    <Frame>
+      <FlipHorizontal>true</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>..\images\mastersheet.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>1714</LeftCoordinate>
+      <RightCoordinate>2070</RightCoordinate>
+      <TopCoordinate>1574</TopCoordinate>
+      <BottomCoordinate>1664</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+    <Frame>
+      <FlipHorizontal>true</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>..\images\mastersheet.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>1714</LeftCoordinate>
+      <RightCoordinate>2070</RightCoordinate>
+      <TopCoordinate>1664</TopCoordinate>
+      <BottomCoordinate>1754</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+    <Frame>
+      <FlipHorizontal>true</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>..\images\mastersheet.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>1714</LeftCoordinate>
+      <RightCoordinate>2070</RightCoordinate>
+      <TopCoordinate>1754</TopCoordinate>
+      <BottomCoordinate>1844</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+  </AnimationChain>
+</AnimationChainArraySave>

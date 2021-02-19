@@ -1,0 +1,3 @@
+C:\Users\silve\Desktop\Sprites\OwlGame\OwlGame\OwlGame.Android\obj\Debug\MonoAndroid81\OwlGame.Android.csprojAssemblyReference.cache
+C:\Users\silve\Desktop\Sprites\OwlGame\OwlGame\OwlGame.Android\obj\Debug\MonoAndroid81\res.flag
+C:\Users\silve\Desktop\Sprites\OwlGame\OwlGame\OwlGame.Android\obj\Debug\MonoAndroid81\OwlGame.Android.csproj.CoreCompileInputs.cache

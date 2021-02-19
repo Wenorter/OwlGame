@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Student Num: c3260058
+ Student Name: Kira Khristosova
+ Date: 24/10/18
+ Description: This XML code loads pixels from mastersheet.png files in image assets. This one is for the enemy.
+ Tutorial Used: Coin Time Demo in Microsoft Website-->
+<AESettingsSave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OffsetMultiplier>1</OffsetMultiplier>
+</AESettingsSave>

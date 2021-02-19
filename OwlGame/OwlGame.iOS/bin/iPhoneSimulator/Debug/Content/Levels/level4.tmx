@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="300" height="20" tilewidth="32" tileheight="32" infinite="0" nextobjectid="22">
+ <tileset firstgid="1" name="Images" tilewidth="1500" tileheight="700" tilecount="3" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="1500" height="700" source="../burnedtreest.png"/>
+  </tile>
+  <tile id="1">
+   <image width="1500" height="700" source="../bvcnv.png"/>
+  </tile>
+  <tile id="2">
+   <image width="1500" height="700" source="../sprites forest.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="4" source="mastersheet.tsx"/>
+ <layer name="background" width="300" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1LENACAIRUFm0IUdXTcwIREs7jq6n1cQAQAAAAAAAAAAAAAAAAAAAEC3ebkBfjHDjwIAAAAgZ3QPSDq7V/eGDL1r6V3rde8N7RgCSw==
+  </data>
+ </layer>
+ <layer name="Слой тайлов 2" width="300" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1rENwCAMBEC31Cyc0dNSRhGSH3FXU7yNsKkCAAAAAAAAAAAAAAAAAAAAgAyz6tlxBugxuwNscsqc+dvvtb70O/uaL70OAKDPOORvB9xpdAfgGvYh5FnfpX2Q6QVgsgRZ
+  </data>
+ </layer>
+</map>

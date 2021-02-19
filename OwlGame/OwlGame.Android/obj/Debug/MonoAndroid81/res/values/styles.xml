@@ -1,0 +1,3 @@
+<resources><style name="Theme.Splash" parent="android:Theme"><item name="android:windowBackground">@drawable/owlsplash</item><!--https://www.youtube.com/watch?v=J2B_0cxsm2o--><item name="android:windowNoTitle">true</item>&gt;
+    
+  </style></resources>

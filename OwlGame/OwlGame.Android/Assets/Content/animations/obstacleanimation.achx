@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Student Num: c3260058
+ Student Name: Kira Khristosova
+ Date: 26/10/18
+ Description: This XML code loads pixels from mastersheet.png files in image assets. This one is for the obstacles.
+ Tutorial Used: Coin Time Demo in Microsoft Website-->
+<AnimationChainArraySave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileRelativeTextures>true</FileRelativeTextures>
+  <TimeMeasurementUnit>Undefined</TimeMeasurementUnit>
+  <CoordinateType>Pixel</CoordinateType>
+  <AnimationChain>
+    <Name>Obstacles</Name>
+    <ColorKey>0</ColorKey>
+    <Frame>
+      <FlipHorizontal>false</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>..\images\mastersheet.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>1658</LeftCoordinate>
+      <RightCoordinate>1812</RightCoordinate>
+      <TopCoordinate>158</TopCoordinate>
+      <BottomCoordinate>396</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+    <Frame>
+      <FlipHorizontal>false</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>..\images\mastersheet.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>1812</LeftCoordinate>
+      <RightCoordinate>1966</RightCoordinate>
+      <TopCoordinate>158</TopCoordinate>
+      <BottomCoordinate>396</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+    <Frame>
+      <FlipHorizontal>false</FlipHorizontal>
+      <FlipVertical>false</FlipVertical>
+      <TextureName>..\images\mastersheet.png</TextureName>
+      <FrameLength>0.1</FrameLength>
+      <LeftCoordinate>1966</LeftCoordinate>
+      <RightCoordinate>2120</RightCoordinate>
+      <TopCoordinate>158</TopCoordinate>
+      <BottomCoordinate>396</BottomCoordinate>
+      <RelativeX>0</RelativeX>
+      <RelativeY>0</RelativeY>
+    </Frame>
+  </AnimationChain>
+</AnimationChainArraySave>

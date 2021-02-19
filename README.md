@@ -1,6 +1,4 @@
 <h2> About </h2>
-
-<br>
 A New Home is a game about an owl that travels from a destroyed forest to find it's new home. 
 Currently features total of 6 prototype levels.
 

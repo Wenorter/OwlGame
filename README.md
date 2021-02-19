@@ -1,5 +1,5 @@
 <h2> About </h2>
-![alt text](https://github.com/Wenorter/OwlGame/blob/master/OwlGame/OwlGame/OwlGame.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png?raw=true)
+![icon](https://user-images.githubusercontent.com/44455243/108450340-262e0b00-72b9-11eb-8888-0bc4ce4bfa22.png)
 A New Home is a game about an owl that travels from a destroyed forest to find it's new home. 
 Currently features total of 6 prototype levels.
 

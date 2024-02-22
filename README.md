@@ -1,8 +1,8 @@
 # OwlGame 
-![OwlGameIcon]([https://github.com/Wenorter/3JS-Upper-Mountains-Expedition/assets/44455243/d70c53d1-664d-4857-927a-7ff8b61b1aec](https://github.com/Wenorter/OwlGame/blob/master/OwlGame/OwlGame.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png))
-A New Home is a game about an owl that travels from a ravaged forest to find it's new home. 
-Currently features a total of 6 prototype levels. 
-Game is in prototype stage.
+![OwlGameIcon](https://github.com/Wenorter/OwlGame/blob/master/OwlGame/OwlGame.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png)
+- A New Home is a game about an owl that travels from a ravaged forest to find it's new home. 
+- Currently features a total of 6 prototype levels. 
+- Game is in prototype stage.
 ---
 ### Demo
 [![OwlGame](https://img.youtube.com/vi/GO5g2IzxnIs/0.jpg)](https://youtu.be/GO5g2IzxnIs)
